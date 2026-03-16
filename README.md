@@ -1,11 +1,12 @@
-## Óla sou o Rbfernandes83👋
-- 🔭 trabalho como soldador e funileiro numa montadora 
-- 🌱 licenciatura de história e Programação de sistemas
-- 👯 programaãço e TI 
-- 🤔 Programação 
-- 💬 minha carreira 
-- 📫 rbfernandes1983@gmail.com
-- 😄 ele,dele                                                                                                                            
+    ## Olá, eu sou o Rbfernandes83 👋
+
+- 🔭 Trabalho como soldador e funileiro em uma montadora
+- 🌱 Estudando Licenciatura em História e Programação de Sistemas
+- 👯 Interesse em Programação e Tecnologia (TI)
+- 🤔 Aprendendo mais sobre desenvolvimento e lógica de programação
+- 💬 Em transição de carreira para a área de tecnologia
+- 📫 Contato: rbfernandes1983@gmail.com
+- 😄 Pronomes: ele/dele                                                                                                                      
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rbfernandes83&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
